@@ -1,0 +1,6 @@
+streamlit
+gspread
+pandas
+google-auth
+gspread-formatting
+python-dateutil
